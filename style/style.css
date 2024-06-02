@@ -1,0 +1,9 @@
+body {
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+}
+span {
+  text-decoration: line-through;
+}
